@@ -6,7 +6,7 @@ AtliQ Hardware is a leading global manufacturing company that optimizes various 
 ### Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMTFhOTRlMzYtM2ZiYS00NzJmLTlhOTktMjY0NmYxMmViMWJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Skills
-### Learned Tech Stacks
+### Learnt Tech Stacks
 1. SQL
 2. PowerBI Desktop
 3. DAX language
